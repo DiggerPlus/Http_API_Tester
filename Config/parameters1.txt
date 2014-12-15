@@ -1,0 +1,7 @@
+adstate=2
+adid=163515
+tag=float_info
+callback=modAdStateCallback
+t=0.5405857509284193
+g_tk=1096325435
+g_ty=ls

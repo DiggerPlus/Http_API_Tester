@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="Suite1" parallel="tests" thread-count="5">
+
+	<test name="Packages">
+		<packages>
+	 		<package name="FrameWork"></package>  
+		</packages>
+		<classes>		 
+ 			<class name="FrameWork.TestEmployeeDetails" />			
+		</classes>
+	</test>
+</suite>  
