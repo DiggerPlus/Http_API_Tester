@@ -91,7 +91,7 @@ public class HttpResponseHandler {
 	
 	/**
 	 * 因为JD这面的服务端返回会带上一个回调函数体，而函数体内部才是一个标准的JSON流格式
-	 * 所以在此需要做一次特殊处理因为JD这面的返回会带上一个回调函数体，而函数体内部才是一个标准的JSON流格式
+	 * 所以在此需要做一次特殊处理.
 	 * @param stringResponse
 	 * @param callBackMethodName
 	 * @return
